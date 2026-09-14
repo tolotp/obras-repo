@@ -10,7 +10,9 @@
       "volume": "",
       "last_updated": "1789360684",
       "groups": {
-        "Un Scan Que Traduce": "https://pbs.twimg.com/media/HSJYY6IXgAMBA2n?format=jpg&name=large"
+        "Un Scan Que Traduce": [
+          "https://pbs.twimg.com/media/HSJYY6IXgAMBA2n?format=jpg&name=large"
+        ]
       }
     }
   }
